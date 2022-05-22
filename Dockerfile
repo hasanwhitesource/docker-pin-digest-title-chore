@@ -1,3 +1,3 @@
-FROM node:17.9.0
+FROM node:17.9.0@sha256:56add7bbcf12dd06b8464eae2ce3e5f336f84af07b94a2c206176018ccf927b1
 
 FROM node:18.1.0@sha256:71c779ea8a157e6efadcafdae79f00fb39b7f3fdb2819ebef3984315c281540f
